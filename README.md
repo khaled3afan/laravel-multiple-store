@@ -1,1 +1,0 @@
-# laravel-multiple-store
